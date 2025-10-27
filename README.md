@@ -49,26 +49,6 @@ Mini-RAG (Retrieval-Augmented Generation) enhances the chatbot with factual, rea
 
 ---
 
-## 🧰 Project Structure
-
-ai-chat-app/
-│
-├── backend/ # FastAPI service
-│ ├── main.py # Core endpoints & logic
-│ ├── .env # Contains your OPENAI_API_KEY
-│ ├── requirements.txt
-│ └── venv/ (optional)
-│
-├── frontend/ # React application
-│ ├── src/App.jsx # Chat UI and logic
-│ ├── package.json
-│ ├── .env # Contains VITE_API_BASE (backend URL)
-│ └── ...
-│
-└── README.md
-
-
-
 
 ## ⚙️ Installation & Setup
 
@@ -76,5 +56,6 @@ ai-chat-app/
 ```bash
 git clone https://github.com/<your-username/AI-Chat-App.git
 cd AI-Chat-App
+
 
 
