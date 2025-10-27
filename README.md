@@ -46,9 +46,11 @@ Mini-RAG (Retrieval-Augmented Generation) enhances the chatbot with factual, rea
 
 📈 This combines **retrieval (facts)** + **generation (reasoning)** = more accurate and explainable answers.
 
+
 ---
 
 ## 🧰 Project Structure
+
 ai-chat-app/
 │
 ├── backend/ # FastAPI service
@@ -65,10 +67,14 @@ ai-chat-app/
 │
 └── README.md
 
+
+
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/<your-username/AI-Chat-App.git
 cd AI-Chat-App
+
 
