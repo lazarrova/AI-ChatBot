@@ -1,0 +1,24 @@
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+*.log
+
+# Env / secrets
+.env
+.env.*
+fastapi-chatbot-ai-backend/.env
+my-ai-chat-frontend/.env
+
+# Misc
+.DS_Store
